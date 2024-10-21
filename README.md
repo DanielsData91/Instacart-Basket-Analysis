@@ -1,4 +1,7 @@
 # CareerFoundry-Project-Instacart-Basket-Analysis
+
+![Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
+
 This project focuses on uncovering hidden sales patterns using Python through exploratory data analysis of demographic information. The sales behavior of different customer profiles was descriptively analyzed and compared using a heatmap.
 ## 1. Project Description
 As a data analyst in this Project, I conducted an exploratory analysis of customer purchasing behaviors to uncover sales patterns. The objective was to help the marketing and sales teams develop targeted strategies based on customer segmentation. Key questions included identifying the busiest shopping times, analyzing spending habits by time of day, understanding product popularity, and exploring customer loyalty and demographic trends. The insights provided informed targeted marketing campaigns and sales strategies to optimize Instacart's offerings and improve customer engagement.
