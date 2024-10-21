@@ -84,10 +84,11 @@ This folder stores the final report in Excel format which includes
 
 ● Recommendations
 
-
 ## 3. Data Set and Sources of the Project
 Data Source: The Instacart Online Grocery Shopping Dataset 2017
 
 The data can be accessed on Kaggle here [here](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+
+## 4 Processing, analyzing and modelling the data
 
 
