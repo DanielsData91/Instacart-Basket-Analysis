@@ -203,6 +203,9 @@ The heatmap suggests that age is the strongest difference between the top custom
 
 ![customer_beh_freq](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/customer_behav_frequency.png)
 
+
+
+
 ![customer_beh_pro](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/customer_behav_product.png)
 
 Recommendation:
