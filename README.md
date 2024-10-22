@@ -138,9 +138,9 @@ The top 5 products are produce, dairy and eggs, snacks, beverages, and frozen fo
 
 Loyal customers usually return after 8 days, whereas new customers (17 days) and regular customers  (14 days) need almost twice as long. Instacart can undertake some special activities to support customers returning, e.g:
 
-1: Offering a certain discount to customers who come back within 10 days on the next order.
-2: Customers can earn points when they order certain products, in certain time frames. Then they can use these points on the total order price of their choice or buy products with points if enough is collected.
-3: Create special offer weekends, certain products are on discount but just during this time.
+**1:** Offering a certain discount to customers who come back within 10 days on the next order.
+**2:** Customers can earn points when they order certain products, in certain time frames. Then they can use these points on the total order price of their choice or buy products with points if enough is collected.
+**3:** Create special offer weekends, certain products are on discount but just during this time.
 <br><br>
 <br><br>
 ![loyalty](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/days_total_order_loyalty.png)
@@ -153,7 +153,7 @@ Loyal customers usually return after 8 days, whereas new customers (17 days) and
 
 Looking closely indicates that there is a difference between the count of order and loyal status (Regular = most, Loyalty = second most). Another indicator of that is that loyal customers have the lowest avg. total order price whereas regular customers the most.
 
-Recommendation: 
+**Recommendation:** 
 Considering the order habits during the day let's recommend Instacart keeps promoting especially the high-range products in the evening (see key question 1) since they make less of the revenue. In addition to gaining more revenue due to promoting high range products as well. 
 Promoting them every week more effectively can assure that regular customers (return 14 days) who place the most orders and loyal customers (return 8 days) who place the second most orders can see the advertisements.
 <br><br>
@@ -173,7 +173,7 @@ Promoting them every week more effectively can assure that regular customers (re
 
 Customers based in the southern regions place the most orders in general, followed by the west and midwest. The products which are ordered amongst all regions follow the same pattern, mid. --> low --> high range products. Neither is there a big difference when looking at the avg. total order price. 
 
-Recommendation:
+**Recommendation:**
 Considering the order habits during the day let's recommend Instacart keeps promoting especially the high-range products in the evening (see key question 1) since they make less of revenue. In addition to gain more revenue due to promoting high range products as well across all regions.
 
 Customers living in the southern region could be rewarded for their high spending habits by a lottery, where they can win small gifts. Customers from the northeast on the other hand could be motivated by a friendship promotion campaign e.g: they could get a discount on products or collect points when recruiting new customers. That could help to raise the total count of customers in this region, which leads to higher revenue over time.
@@ -208,13 +208,13 @@ Overall, there is a clear relationship between age, family status, and ordering 
 <br><br>
 ### 5.8 Key Question 8: What different classifications does the demographic information suggest?
 
-Age classification: Observing the age group demographic reveals a clear relationship between age and income group due to the growing experience on the job, which comes along with a higher salary. Older adults have the strongest spending capacity among all age groups. Looking at the other variables,  there seems to be no relationship between family status, order frequency, and region. 
+**Age classification:** Observing the age group demographic reveals a clear relationship between age and income group due to the growing experience on the job, which comes along with a higher salary. Older adults have the strongest spending capacity among all age groups. Looking at the other variables,  there seems to be no relationship between family status, order frequency, and region. 
 <br><br>
 <br><br>
 ![age_income](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/age_income_comparison.png)
 <br><br>
 <br><br>
-Income classification: Upper-income individuals are the most prevalent in Instacarts customer base. Married couples living in a middle household (1-2 dependents) account for the strongest spending force of Instacart customers.
+**Income classification:** Upper-income individuals are the most prevalent in Instacarts customer base. Married couples living in a middle household (1-2 dependents) account for the strongest spending force of Instacart customers.
 Interesting to see is that low-spender individuals (orders below avg. purchase price of 10) are accounting 97% of the distribution in income ranges. That means, even so there is significant spending power, customers tend to buy cheaper products.
 <br><br>
 <br><br>
@@ -229,7 +229,7 @@ Interesting to see is that low-spender individuals (orders below avg. purchase p
 ![income_spend_2](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Spending.png)
 <br><br>
 <br><br>
-Department classification: There is no difference in departments amongst region, household, age, and income
+**Department classification:** There is no difference in departments amongst region, household, age, and income
 <br><br>
 <br><br>
 ![department](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/age_dept_comparison.png)
@@ -250,14 +250,15 @@ The heatmap suggests that age is the strongest difference between the top custom
 ![customer_beh_pro](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/customer_behav_product.png)
 <br><br>
 <br><br>
-Recommendation:
-1: Target Older Married Customers (40+):
+**Recommendation:**
+
+**1:** Target Older Married Customers (40+):
 Since they account for the highest purchase frequency, particularly in Food & Groceries and Beverages & Alcohol, focus on marketing and promotions tailored to this group. Offering loyalty programs, subscription services, or discounts on frequently purchased items could enhance retention and spending.
 
-2: Personalized Promotions by Age Group:
+**2:** Personalized Promotions by Age Group:
 Create age-specific promotions. For example, offer different bundles or deals for the 40-65 age group compared to younger customers, as their spending habits differ.
 
-3: Cross-Sell Opportunities:
+**3:** Cross-Sell Opportunities:
 As food and beverages are popular categories, explore opportunities for cross-selling related items (e.g., household & personal care products, ) to these high-spending customer groups.
 
 4: Encourage Higher Spending in Younger Age Groups:
