@@ -94,7 +94,7 @@ The data can be accessed on Kaggle here [here](https://www.kaggle.com/c/instacar
 
 Please refer to the script section for more details
 
-[Script Section](Master Folder - Instacart Basket Analysis 09.09.2024/03 Scripts)
+[Script Section]([Master Folder - Instacart Basket Analysis 09.09.2024/03 Scripts](https://github.com/DanielsData91/Instacart-Basket-Analysis/tree/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/03%20Scripts))
 
 ## 5. Insights to the Key Questions
 
