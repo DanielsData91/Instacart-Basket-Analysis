@@ -224,7 +224,7 @@ Interesting to see is that low-spender individuals (orders below avg. purchase p
 ![department](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/age_dept_comparison.png)
 <br><br>
 <br><br>
-Recommendation: 
+**Recommendation:**
 Summarizing the insides of all classifications suggests targeting married adults and elderly customers in the middle-income range to gain more revenue by focusing on products market suitable for these two classifications to bridge between the spending capacity and actual expenditure
 
 ### 5.9 Key Question 9: What differences are the ordering habits of different customer profiles?
