@@ -3,6 +3,7 @@
 ![Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
 
 This project focuses on uncovering hidden sales patterns using Python through exploratory data analysis of demographic information. The sales behavior of different customer profiles was descriptively analyzed and compared using a heatmap.
+
 ## 1. Project Description
 As a data analyst in this Project, I conducted an exploratory analysis of customer purchasing behaviors to uncover sales patterns. The objective was to help the marketing and sales teams develop targeted strategies based on customer segmentation. Key questions included identifying the busiest shopping times, analyzing spending habits by time of day, understanding product popularity, and exploring customer loyalty and demographic trends. The insights provided informed targeted marketing campaigns and sales strategies to optimize Instacart's offerings and improve customer engagement.
 
@@ -99,17 +100,21 @@ Please refer to the script section for more details
 
 ### 5.1 Key Question 1: What are the busiest days of the week and hours of the day?
 
-The busiest days of the week are Sunday, Monday, and Saturday. Considering the busiest hours of the day (between 10am and 4pm) as well, let me recommend that Instacart should schedule ads for the times from 6 am to 8 am and 5 pm to 10 pm when customers place fewer orders on Wednesday and Thursday. Before 6 am and after 10 pm is not recommended, because of less traffic of customers due to their sleeping hours.
+The busiest days of the week are Sunday, Monday, and Saturday. Considering the busiest hours of the day (between 10 am and 4 pm), let me recommend that Instacart schedule ads from 6 am to 8 am and 5 pm to 10 pm when customers place fewer orders on Wednesday and Thursday. Before 6 am and after 10 pm is not recommended, because of less traffic of customers due to their sleeping hours.
+
+![budiest hours](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/busiest_hour_day.png)
+
+![busiest day](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/busiest_weekday.png)
 
 ### 5.2 Key Question 2: What are particular times when people spend their money?
 
-People spend the most money between between 10 am and 4 pm. The expenditure line graphs follow the busiest hours. This time frame will inform Instacart of the type of products they advertise at these times.
+People spend the most money between 10 am and 4 pm. The expenditure line graphs follow the busiest hours. This time frame will inform Instacart of the type of products they advertise at these times.
 
 ### 5.3 Key Question 3: What are the most popular products?
 
 The top 5 products are produce, dairy and eggs, snacks, beverages, and frozen food. Therefore, Instacart should provide special offers on those categories to keep drawing customers' attention and activity. Instacart should also promote and provide discounts on poorly performing departments like products from the department bulk, pets, and alcohol to increase the total revenue.
 
-### 5.4 Key Question 4: What is the distribution among users in regards to their brand loyalty?
+### 5.4 Key Question 4: What is the distribution among users in regard to their brand loyalty?
 
 Loyal customers usually return after 8 days, whereas new customers (17 days) and regular customers  (14 days) need almost twice as long. Instacart can undertake some special activities to support customers returning, e.g:
 
