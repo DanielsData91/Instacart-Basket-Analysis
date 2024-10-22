@@ -132,6 +132,8 @@ Loyal customers usually return after 8 days, whereas new customers (17 days) and
 
 ![loyalty](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/days_total_order_loyalty.png)
 
+![loyalty_2](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Loyalty.png)
+
 ### 5.5 Key Question 5: Are there differences in ordering habits based on a customer's loyalty status?
 
 Looking closely indicates that there is a difference between the count of order and loyal status (Regular = most, Loyalty = second most). Another indicator of that is that loyal customers have the lowest avg. total order price whereas regular customers the most.
@@ -185,6 +187,8 @@ Interesting to see is that low-spender individuals (orders below avg. purchase p
 ![income_fam](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/income_fam_status_comparison.png)
 
 ![income_spending](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/income_spending_comparison.png)
+
+![income_spend_2](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Spending.png)
 
 Department classification: There is no difference in departments amongst region, household, age, and income
 
