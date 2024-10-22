@@ -106,7 +106,6 @@ The busiest days of the week are Sunday, Monday, and Saturday. Considering the b
 ![budiest hours](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/busiest_hour_day.png)
 <br><br>
 <br><br>
-<br><br>
 ![busiest day](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/busiest_weekday.png)
 <br><br>
 <br><br>
@@ -126,9 +125,7 @@ The top 5 products are produce, dairy and eggs, snacks, beverages, and frozen fo
 ![frequency department](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/frequncy_department.png)
 <br><br>
 <br><br>
-<br><br>
 ![Top 10 products](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Top_10_dep.png)
-<br><br>
 <br><br>
 <br><br>
 ![Proportion](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Proportion_10_dep.png)
@@ -146,7 +143,6 @@ Loyal customers usually return after 8 days, whereas new customers (17 days) and
 ![loyalty](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/days_total_order_loyalty.png)
 <br><br>
 <br><br>
-<br><br>
 ![loyalty_2](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Loyalty.png)
 
 ### 5.5 Key Question 5: Are there differences in ordering habits based on a customer's loyalty status?
@@ -161,9 +157,7 @@ Promoting them every week more effectively can assure that regular customers (re
 ![Count of orders](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Count_Order_Hour_loyalty.png)
 <br><br>
 <br><br>
-<br><br>
 ![Count of orders](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/product_range_loyalty.png)
-<br><br>
 <br><br>
 <br><br>
 ![Count of orders](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/order_loyalty.png)
@@ -182,9 +176,7 @@ Customers living in the southern region could be rewarded for their high spendin
 ![Region](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Count_Order_Hour_Region.png)
 <br><br>
 <br><br>
-<br><br>
 ![Region_price](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/product_range_region.png)
-<br><br>
 <br><br>
 <br><br>
 ![Region_loyalty](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/region_loyalty.png)
@@ -200,7 +192,6 @@ Overall, there is a clear relationship between age, family status, and ordering 
 <br><br>
 <br><br>
 ![Fam_age_fre](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/frequency_fam_age.png)
-<br><br>
 <br><br>
 <br><br>
 ![Fam_age_spend](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/order_fam_age.png)
@@ -221,9 +212,7 @@ Interesting to see is that low-spender individuals (orders below avg. purchase p
 ![income_fam](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/income_fam_status_comparison.png)
 <br><br>
 <br><br>
-<br><br>
 ![income_spending](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/income_spending_comparison.png)
-<br><br>
 <br><br>
 <br><br>
 ![income_spend_2](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/Spending.png)
@@ -244,7 +233,6 @@ The heatmap suggests that age is the strongest difference between the top custom
 <br><br>
 <br><br>
 ![customer_beh_freq](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/customer_behav_frequency.png)
-<br><br>
 <br><br>
 <br><br>
 ![customer_beh_pro](https://github.com/DanielsData91/Instacart-Basket-Analysis/blob/main/Master%20Folder%20-%20Instacart%20Basket%20Analysis%2009.09.2024/04%20Analysis/Visualizations/Task%2010/customer_behav_product.png)
