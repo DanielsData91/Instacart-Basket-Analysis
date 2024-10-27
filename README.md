@@ -92,7 +92,7 @@ The data can be accessed on Kaggle here [here](https://www.kaggle.com/c/instacar
 
 Customer Data Set: This data set was randomly generated for this project only
 
-The data can be accessed on Google Drive here [here]([https://drive.google.com/file/d/1KWzeRZpSCiKadteSEs91NYaOG_onL8YA/view?usp=drive_link]
+The data can be accessed on Google Drive here [here](https://drive.google.com/file/d/1KWzeRZpSCiKadteSEs91NYaOG_onL8YA/view?usp=drive_link)
 
 ## 4. Processing, analyzing, and modeling the data
 
